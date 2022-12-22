@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ajayadhakal
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack web development using MEAN stack 
+- 🌱 I’m currently working on creating web based solutions for data anlytics
 - 💞️ I’m looking to collaborate on new web applications involving data analysis and visualization
 - 📫 You can follow me on twitter @ajayadhakal
 
